@@ -38,3 +38,4 @@
 
 </picture>
 
+![tryhackme stats](https://raw.githubusercontent.com/v3xtr/v3xtr/master/assets/thm_propic.png)
