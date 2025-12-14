@@ -36,3 +36,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake.svg" />
 </picture>
+
+<picture>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/v3xtr.png" alt="Your Image Badge" />
+</picture>
