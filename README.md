@@ -105,6 +105,6 @@ Applying **offensive security knowledge** to build defensive backend systems, im
   
   ---
   
-  <img src="https://komarev.com/ghpvc/?username=v3xtr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=v3xtr&label=Profile%20views&color=red&style=flat-square&abbreviated=true" alt="profile views" />
   
 </div>
