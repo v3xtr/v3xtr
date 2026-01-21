@@ -1,5 +1,5 @@
 <h1 align="center">👋 Nikita Kuznetsov (@v3xtr)</h1>
-<h3 align="center">Backend Developer & Security Enthusiast</h3>
+<h3 align="center">Backend Engineer & Security Enthusiast</h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0088ff&height=180&section=header&text=Nikita%20Kuznetsov&fontSize=42&fontAlignY=35&animation=twinkling&desc=Backend%20Engineer%20•%20Top%208%25%20TryHackMe&descAlignY=55&descSize=20" />
