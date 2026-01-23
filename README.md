@@ -87,8 +87,8 @@ Applying **offensive security knowledge** to build defensive backend systems, im
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v3xtr&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3xtr&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v3xtr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="v3xtr's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3xtr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="v3xtr's GitHub Stats" />
 </div>
 
 ###
