@@ -65,7 +65,7 @@
 ## 🔬 Technical Expertise
 
 ### Backend Development
-Building scalable microservices with **Node.js/TypeScript** and **Java/Spring Boot**, implementing **event-driven architecture** with RabbitMQ, designing **RESTful APIs** and optimizing database performance with **PostgreSQL** and **Redis**.
+Building scalable microservices with **Node.js/TypeScript** and **Java/Spring Boot**, implementing **event-driven architecture** with RabbitMQ/Kafka, designing **RESTful APIs** and optimizing database performance with **PostgreSQL** and **Redis**.
 
 ### Data Management & Storage
 - **PostgreSQL**: Primary relational database with replication for high availability
