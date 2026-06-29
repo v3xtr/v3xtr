@@ -9,7 +9,7 @@
 
 ## 🏆 Cybersecurity Achievement
 ![](https://tryhackme-badges.s3.amazonaws.com/v3xtr.png)  
-**Top 8% worldwide on TryHackMe** • Applying security-first principles to backend development
+**Top 6% worldwide on TryHackMe** • Applying security-first principles to backend development
 
 ###
 
