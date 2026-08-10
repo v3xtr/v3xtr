@@ -70,14 +70,11 @@
 
 ## 🔬 Technical Expertise
 
-### Backend Development
-Building scalable microservices with **Node.js/TypeScript** and **Java/Spring Boot**, implementing **event-driven architecture** with **RabbitMQ/Kafka**, designing **RESTful APIs** and optimizing database performance with **PostgreSQL** and **Redis**.
-
 ### Data Management & Storage
-- **PostgreSQL**: Primary relational database with replication for high availability
+- **PostgreSQL**: Primary relational database — scaling reads via CQRS as load grows (e.g. Elasticsearch as the read model)
 - **Redis**: In-memory caching, session storage, and real-time features
 - **MongoDB**: Flexible document storage for unstructured data
-- **Elasticsearch**: Full-text search, log aggregation, and analytics
+- **Elasticsearch**: Full-text search and analytics for read-heavy queries (CQRS read model)
 - **AWS S3**: Scalable object storage for media and static assets
 
 ### DevOps & Infrastructure
@@ -90,7 +87,7 @@ Implementing comprehensive monitoring with **Prometheus** and **Grafana**, log a
 Designing multi-service architectures with **event-driven communication over Kafka**, including the **transactional outbox pattern** for reliable event publishing (no lost events on broker outages), **CQRS** (Postgres for writes, Elasticsearch for search/reads), and **retry-with-backoff + dead-letter queues** for consumers that can't yet process a message (e.g. a referenced entity hasn't landed in the database).
 
 ### Security Mindset
-Applying **offensive security knowledge** to build defensive backend systems, implementing **secure coding practices**, and designing systems with **security-first approach**.
+Ranked top 8% worldwide on TryHackMe — apply that offensive-security mindset as a habit: routinely auditing my own services for OWASP Top 10 issues like broken object-level authorization, rather than assuming JWT auth alone is enough.
 
 ###
 
