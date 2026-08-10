@@ -7,7 +7,11 @@
 
 ###
 
-> Self-taught backend engineer — 23 months in backend overall, switched from TypeScript to Java/Spring Boot ~5 months ago and rebuilt a multi-service platform (12+ microservices) solo, from event-driven architecture down to Kubernetes deployment.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Self-Taught+Backend+Engineer;TypeScript+to+Java+in+5+months;Building+distributed+systems+solo;Top+8%25+on+TryHackMe" />
+</div>
+
+> 23 months in backend overall, switched from TypeScript to Java/Spring Boot ~5 months ago and rebuilt a multi-service platform (12+ microservices) solo, from event-driven architecture down to Kubernetes deployment.
 
 ###
 
@@ -101,9 +105,5 @@ Ranked top 8% worldwide on TryHackMe — apply that offensive-security mindset a
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v3xtr/v3xtr/output/github-snake.svg" />
     <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/v3xtr/v3xtr/output/github-snake.svg" />
   </picture>
-  
-  ---
-  
-  <img src="https://komarev.com/ghpvc/?username=v3xtr&label=Profile%20views&color=red&style=flat-square&abbreviated=true" alt="profile views" />
   
 </div>
