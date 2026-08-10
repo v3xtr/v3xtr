@@ -7,7 +7,7 @@
 
 ###
 
-> Self-taught backend engineer — switched from TypeScript to Java/Spring Boot in under two years and rebuilt a multi-service platform (12+ microservices) solo, from event-driven architecture down to Kubernetes deployment.
+> Self-taught backend engineer — 23 months in backend overall, switched from TypeScript to Java/Spring Boot ~5 months ago and rebuilt a multi-service platform (12+ microservices) solo, from event-driven architecture down to Kubernetes deployment.
 
 ###
 
