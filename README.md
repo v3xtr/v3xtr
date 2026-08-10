@@ -71,10 +71,11 @@
 ## 🔬 Technical Expertise
 
 ### Data Management & Storage
-- **PostgreSQL**: Primary relational database — scaling reads via CQRS as load grows (e.g. Elasticsearch as the read model)
+- **PostgreSQL**: Primary relational database — system of record for all writes
+- **PgBouncer**: Connection pooling in front of PostgreSQL to handle concurrent connections efficiently
 - **Redis**: In-memory caching, session storage, and real-time features
 - **MongoDB**: Flexible document storage for unstructured data
-- **Elasticsearch**: Full-text search and analytics for read-heavy queries (CQRS read model)
+- **Elasticsearch**: Full-text/faceted search — chosen over Postgres full-text/vector search for better performance at scale, kept in sync via CQRS
 - **AWS S3**: Scalable object storage for media and static assets
 
 ### DevOps & Infrastructure
