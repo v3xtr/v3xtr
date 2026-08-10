@@ -7,6 +7,10 @@
 
 ###
 
+> Self-taught backend engineer — switched from TypeScript to Java/Spring Boot in under two years and rebuilt a multi-service platform (12+ microservices) solo, from event-driven architecture down to Kubernetes deployment.
+
+###
+
 ## 🏆 Cybersecurity Achievement
 ![](https://tryhackme-badges.s3.amazonaws.com/v3xtr.png)  
 **Top 8% worldwide on TryHackMe** • Applying security-first principles to backend development
@@ -54,6 +58,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 ## 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -76,10 +81,13 @@ Building scalable microservices with **Node.js/TypeScript** and **Java/Spring Bo
 - **AWS S3**: Scalable object storage for media and static assets
 
 ### DevOps & Infrastructure
-Containerizing applications with **Docker**, orchestrating with **Kubernetes**, setting up **CI/CD pipelines** with GitHub Actions, and configuring **reverse proxies** with Nginx.
+Containerizing applications with **Docker**, orchestrating with **Kubernetes**, setting up **CI/CD pipelines** with GitHub Actions, and configuring **reverse proxies** with Nginx. On Kubernetes clusters specifically, using **Nginx as the edge proxy in front of a Traefik ingress controller**.
 
 ### Monitoring & Observability
-Implementing comprehensive monitoring with **Prometheus** and **Grafana**, log analysis with **Elastic Stack (ELK)**, and visualizing data with **Kibana** dashboards.
+Implementing comprehensive monitoring with **Prometheus** and **Grafana**, log analysis with **Elastic Stack (ELK)**, and visualizing data with **Kibana** dashboards. Also running **Loki + Promtail** for log aggregation on Kubernetes.
+
+### Distributed Systems Patterns
+Designing multi-service architectures with **event-driven communication over Kafka**, including the **transactional outbox pattern** for reliable event publishing (no lost events on broker outages), **CQRS** (Postgres for writes, Elasticsearch for search/reads), and **retry-with-backoff + dead-letter queues** for consumers that can't yet process a message (e.g. a referenced entity hasn't landed in the database).
 
 ### Security Mindset
 Applying **offensive security knowledge** to build defensive backend systems, implementing **secure coding practices**, and designing systems with **security-first approach**.
